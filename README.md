@@ -1,2 +1,2 @@
 # app-next-v01
-Prendendo next com a rocketseat
+Aprendendo next com a rocketseat
