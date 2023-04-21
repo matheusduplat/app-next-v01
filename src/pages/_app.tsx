@@ -13,7 +13,7 @@ export default function App({Component, pageProps}: AppProps) {
       <Header>
         <div>
           <Image src={logoImg} alt="" />
-          <span>Shop ignite</span>
+          <span>Shop Tudo tem (by rocketseat)</span>
         </div>
       </Header>
       <Component {...pageProps} />

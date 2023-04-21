@@ -51,7 +51,7 @@ export default function Product({product}: ProductPros) {
   return (
     <>
       <Head>
-        <title>{product.name} | Ignite Shop</title>
+        <title>{product.name} | Shop Tudo tem</title>
       </Head>
       <ProductContainer>
         <ImageContainer>
