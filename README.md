@@ -1,4 +1,7 @@
 Projeto feito através do curso da rocketseat.
+Link do projeto: https://shop-tudo-tem.netlify.app 
+
+Foi utilizado o next, para o front e o stripe para gerar os produtos
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
